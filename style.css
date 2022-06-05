@@ -1,31 +1,32 @@
- #image {
-     max-width: 100%;
-     display  : block;
-     height   : auto;
-     margin   : 0 auto;
- }
+/* Copy and paste your CSS from CodePen into here */
+#image {
+    max-width: 100%;
+    display  : block;
+    height   : auto;
+    margin   : 0 auto;
+}
 
- img {
-     width        : 300px;
-     border-radius: 30%;
-     box-shadow   : 7px -1px 12px grey;
- }
+img {
+    width        : 300px;
+    border-radius: 30%;
+    box-shadow   : 7px -1px 12px grey;
+}
 
- figcaption {
-     margin-top: 5px;
- }
+figcaption {
+    margin-top: 5px;
+}
 
- .container {
-     text-align: center;
-     display   : column;
-     margin    : auto;
-     max-width : 1000px;
- }
+.container {
+    text-align: center;
+    display   : column;
+    margin    : auto;
+    max-width : 1000px;
+}
 
- header {
-     text-align: center;
- }
+header {
+    text-align: center;
+}
 
- #tribute-info {
-     margin-top: 2em;
- }
+#tribute-info {
+    margin-top: 2em;
+}
